@@ -15,9 +15,9 @@ To use any of the plugins in this repository, you need to add the plugin depende
 
 - Clone specific plugin from the repository
 ```shell
-rm -rf drools-plugin
-mkdir drools-plugin
-cd drools-plugin
+rm -rf maven-plugin
+mkdir maven-plugin
+cd maven-plugin
 
 # Init empty repo
 git init
