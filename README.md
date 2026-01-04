@@ -43,7 +43,7 @@ mvn -B -U -e clean install -DskipTests
 ```
 
 ## Usage
-To use a plugin in your Maven project, add the following configuration to your `pom.xml`
+To use a plugin in your Maven project, add the following configuration in `pom.xml`
 ```xml
 <plugin>
     <groupId>pro.saransh</groupId>
