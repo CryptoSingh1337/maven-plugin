@@ -13,7 +13,7 @@ Each plugin is designed to perform specific tasks and can be easily integrated i
 ## Installation
 To use any of the plugins in this repository, you need to add the plugin dependency to your
 
-- Clone specific plugin repository from the repository
+- Clone specific plugin from the repository
 ```shell
 rm -rf drools-plugin
 mkdir drools-plugin
